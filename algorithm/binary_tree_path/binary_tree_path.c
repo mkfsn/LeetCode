@@ -54,6 +54,8 @@ char** binaryTreePaths(struct TreeNode* root, int* returnSize) {
     (*returnSize) = 0;
     dfs(&paths, root, returnSize, &path, 0);
 
+    free(path);
+
     return paths;
 }
 
@@ -82,8 +84,22 @@ int main(int argc, char* argv[])
     top->right->right->left->right->left = make_node(8);
  
     answer = binaryTreePaths(top, &size);
-    for (i = 0; i < size; i++)
+    for (i = 0; i < size; i++) {
         printf("(%d):[%s]\n", i, answer[i]);
-   
+        free(answer[i]);
+    }
+    free(answer);
+
+    free(top->right->right->left->right->left);
+    free(top->right->right->left->right);
+    free(top->right->right->left->left);
+    free(top->right->right->left);
+    free(top->right->right);
+    free(top->right->left);
+    free(top->left->left);
+    free(top->right);
+    free(top->left);
+    free(top);
+
     return 0;
 }
