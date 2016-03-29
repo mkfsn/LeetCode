@@ -18,16 +18,16 @@ void dfs(char ***paths, struct TreeNode* root, int* returnSize, int** path, int 
     (*path) = (int*)realloc(*path, sizeof(int) * depth + 1);
     (*path)[depth] = root->val;
     length += (numberOfDigit(root->val) + 2); // Number of digit + strlen("->")
-    
+
     if (root->left == NULL && root->right == NULL) {
         rp = (*returnSize)++;
-        
+
         (*paths) = (char**)realloc((*paths), sizeof(char*) * (*returnSize));
-        
+
         // Reduce last "->" which length is 2 and add '\0' which length is 1
         (*paths)[rp] = (char*)malloc(sizeof(char) * (length - 2 + 1));
         (*paths)[rp][0] = '\0';
-        
+
         for (i = 0; i < depth; i++) {
             sprintf((*paths)[rp], "%s%d->", (*paths)[rp], (*path)[i]);
         }
@@ -35,7 +35,7 @@ void dfs(char ***paths, struct TreeNode* root, int* returnSize, int** path, int 
         length -= (numberOfDigit(root->val) + 2);
         return;
     }
-    
+
     if (root->left != NULL) {
         dfs(paths, root->left, returnSize, path, depth + 1);
     }
