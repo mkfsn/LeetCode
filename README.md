@@ -51,6 +51,8 @@
     * [database/delete-duplicate-emails](database/delete-duplicate-emails)
 + [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
     * [database/rising-temperature](database/rising-temperature)
++ [262. Trips and Users](https://leetcode.com/problems/trips-and-users/)
+    * [database/trips-and-users](database/trips-and-users)
 
 ## Shell
 
