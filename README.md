@@ -4,6 +4,20 @@
 
 ## Algorithm
 
++ [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+    * [algorithm/palindrome-number](algorithm/palindrome-number)
++ [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+    * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
++ [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+    * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
++ [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+    * [algorithm/binary-tree-inorder-traversal](algorithm/binary-tree-inorder-traversal)
++ [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+    * [algorithm/symmetric-tree](algorithm/symmetric-tree)
++ [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+    * [algorithm/binary-tree-preorder-traversal](algorithm/binary-tree-preorder-traversal)
++ [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+    * [algorithm/binary-tree-postorder-traversal](algorithm/binary-tree-postorder-traversal)
 + [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
     * [algorithm/binary-tree-level-order-traversal](algorithm/binary-tree-level-order-traversal)
 + [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
