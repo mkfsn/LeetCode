@@ -26,6 +26,8 @@
     * [algorithm/delete-node-in-a-linked-list](algorithm/delete-node-in-a-linked-list)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
     * [algorithm/binary-tree-path](algorithm/binary-tree-path)
++ [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+    * [algorithm/odd-even-linked-list](algorithm/odd-even-linked-list)
 
 ## Database
 
