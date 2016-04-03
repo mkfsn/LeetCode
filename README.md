@@ -10,6 +10,8 @@
     * [algorithm/palindrome-number](algorithm/palindrome-number)
 + [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
     * [algorithm/roman-to-integer](algorithm/roman-to-integer)
++ [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    * [algorithm/longest-common-prefix](algorithm/longest-common-prefix)
 + [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
 + [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
