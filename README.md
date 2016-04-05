@@ -6,6 +6,8 @@
 
 + [1. Two Sum](https://leetcode.com/problems/two-sum/)
     * [algorithm/two-sum](algorithm/two-sum)
++ [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+    * [algorithm/zigzag-conversion](algorithm/zigzag-conversion)
 + [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
     * [algorithm/palindrome-number](algorithm/palindrome-number)
 + [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
