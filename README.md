@@ -16,6 +16,8 @@
     * [algorithm/longest-common-prefix](algorithm/longest-common-prefix)
 + [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
++ [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+    * [algorithm/length-of-last-word](algorithm/length-of-last-word)
 + [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
     * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
