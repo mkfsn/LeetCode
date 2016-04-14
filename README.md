@@ -18,6 +18,8 @@
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
 + [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
++ [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+    * [algorithm/climbing-stairs](algorithm/climbing-stairs)
 + [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
     * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
