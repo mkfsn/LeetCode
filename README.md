@@ -20,8 +20,6 @@
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
 + [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
     * [algorithm/climbing-stairs](algorithm/climbing-stairs)
-+ [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
-    * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
     * [algorithm/binary-tree-inorder-traversal](algorithm/binary-tree-inorder-traversal)
 + [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
@@ -38,6 +36,8 @@
     * [algorithm/delete-node-in-a-linked-list](algorithm/delete-node-in-a-linked-list)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
     * [algorithm/binary-tree-path](algorithm/binary-tree-path)
++ [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+    * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
     * [algorithm/odd-even-linked-list](algorithm/odd-even-linked-list)
 
