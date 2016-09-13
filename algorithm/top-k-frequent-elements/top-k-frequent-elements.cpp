@@ -1,26 +1,26 @@
 class Solution {
-    
-    static bool compare(pair<int, int> const& i, pair<int, int> const& j) {
-        return i.second > j.second;
-    }
 
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         map<int, int> freq;
+        vector<vector<int>> counts(nums.size() + 1);
         vector<int> res;
         
-        for (int i = 0; i < nums.size(); i++) {
-            if (freq.find(nums[i]) == freq.end())
-                freq[nums[i]] = 0;
-            freq[nums[i]]++;
+        for (auto n: nums) {
+            try {
+                freq[n]++;
+            } catch (out_of_range) {
+                freq[n] = 1;
+            }
         }
+
+        for (auto it = freq.begin(); it != freq.end(); it++)
+            counts[it->second].push_back(it->first);
         
-        vector<pair<int,int>> vp(freq.begin(), freq.end());
-        sort(vp.begin(), vp.end(), compare);
-        
-        for (auto it = vp.begin(); it != vp.end() && it - vp.begin() < k; it++)
-            res.push_back(it->first);
-            
+        for (auto row = counts.rbegin(); row != counts.rend() && k > 0; row++)
+            for (auto col = row->begin(); col != row->end() && k > 0; col++, k--)
+                res.push_back(*col);
+
         return res;
     }
 };
