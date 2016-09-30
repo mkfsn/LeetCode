@@ -1,6 +1,7 @@
 #include <iostream>
 #include <map>
 #include <vector>
+#include <set>
 
 using namespace std;
 
@@ -8,23 +9,19 @@ class Solution {
 public:
     bool canCross(vector<int>& stones) {
         
-        map<int, vector<int>> history;
-        for (auto s: stones) {
-            vector<int> tmp;
-            history[s] = tmp;
-        }
+        map<int, set<int>> history;
+        for (auto s: stones)
+            history[s] = set<int>();
         
-        history[1].push_back(0);
+        history[1].insert(1);
         for (auto k = stones.begin() + 1; k != stones.end() - 1; k++) {
             for (auto h: history[*k]) {
-                int last = *k - h;
-                for (int i = -1; i <= 1; i++) {
-                    int next = *k + last + i;
-                    if (*k != next && history.find(next) != history.end() 
-                        && history[next].end() == find(history[next].begin(), history[next].end(), *k)) {
-                        history[next].push_back(*k);
-                    }
-                }
+                try {
+                    if (h - 1 > 0)
+                        history[*k + h - 1].insert(h - 1);
+                    history[*k + h].insert(h);
+                    history[*k + h + 1].insert(h + 1);
+                } catch (...) {}
             }
         }
 
