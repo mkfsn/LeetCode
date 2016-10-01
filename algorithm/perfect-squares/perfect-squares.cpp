@@ -4,32 +4,16 @@
 using namespace std;
 
 class Solution {
-    int findMinPair(vector<int> counts, int start, int end) {
-        int i = 1, j, min = counts[i] + counts[target - i];
-        for (i = 2, j = i * i; j < target; i++, j = i * i) {
-            int tmp = counts[j] + counts[target - j];
-            if (tmp < min)
-                min = tmp;
-        }
-        return min;
-    }
 public:
     int numSquares(int n) {
-
-        vector<int> counts(n + 1, 0);
-
-        // Init
-        for (int i = 1, j = i * i; j <= n; i++, j = i * i)
-            counts[j] = 1;
-
-        counts[2] = 2;
-        for (int i = 3; i <= n; i++) {
-            if (counts[i] == 1)
-                continue;
-            counts[i] = findMinPair(counts, 1, i - 1);
+        static vector<int> dp{0};
+        for (int i = dp.size(); i <= n; ++i) {
+            int squares = INT_MAX;
+            for (int j = 1; j * j <= i; ++j)
+                squares = min(squares, dp[i - j * j] + 1);                            
+            dp.push_back(squares);
         }
-        
-        return counts[n];
+        return dp[n];
     }
 };
 
