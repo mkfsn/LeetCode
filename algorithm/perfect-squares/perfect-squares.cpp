@@ -5,9 +5,9 @@ using namespace std;
 
 class Solution {
     int findMinPair(vector<int> counts, int start, int end) {
-        int min = counts[start++] + counts[end--];
-        while (start <= end) {
-            int tmp = counts[start++] + counts[end--];
+        int i = 1, j, min = counts[i] + counts[target - i];
+        for (i = 2, j = i * i; j < target; i++, j = i * i) {
+            int tmp = counts[j] + counts[target - j];
             if (tmp < min)
                 min = tmp;
         }
