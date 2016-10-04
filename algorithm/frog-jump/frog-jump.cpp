@@ -1,27 +1,26 @@
 #include <iostream>
-#include <map>
+#include <unordered_map>
 #include <vector>
-#include <set>
+#include <unordered_set>
 
 using namespace std;
 
 class Solution {
 public:
     bool canCross(vector<int>& stones) {
-        
-        map<int, set<int>> history;
+        unordered_map<int, unordered_set<int>> history;
         for (auto s: stones)
-            history[s] = set<int>();
-        
+            history[s] = unordered_set<int>();
+
         history[1].insert(1);
         for (auto k = stones.begin() + 1; k != stones.end() - 1; k++) {
             for (auto h: history[*k]) {
-                try {
-                    if (h - 1 > 0)
-                        history[*k + h - 1].insert(h - 1);
+                if (h - 1 > 0 && history.find(*k + h - 1) != history.end())
+                    history[*k + h - 1].insert(h - 1);
+                if (history.find(*k + h) != history.end())
                     history[*k + h].insert(h);
+                if (history.find(*k + h + 1) != history.end())
                     history[*k + h + 1].insert(h + 1);
-                } catch (...) {}
             }
         }
 
