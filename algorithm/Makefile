@@ -15,10 +15,14 @@ cpp: CFLAGS+=-std=c++11
 cpp: $(TARGET)
 
 $(TARGET):
+ifeq ($(DEBUG), TRUE)
+	$(CC) $(CFLAGS) -DDEBUG -o $@ $@.$(EXT)
+else
 	$(CC) $(CFLAGS) -o $@ $@.$(EXT)
+endif
 
 clean:
-	rm -f $(TARGET)
+	rm -rf $(TARGET) $(TARGET).dSYM
 
 run:
 	./$(TARGET)
