@@ -50,6 +50,8 @@
     * [algorithm/backspace-string-compare](algorithm/backspace-string-compare)
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
     * [algorithm/x-of-a-kind-in-a-deck-of-cards](algorithm/x-of-a-kind-in-a-deck-of-cards)
+* [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
+    * [algorithm/valid-boomerang](algorithm/valid-boomerang)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
