@@ -46,6 +46,8 @@
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
     * [algorithm/most-common-word](algorithm/most-common-word)
+* [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+    * [algorithm/x-of-a-kind-in-a-deck-of-cards](algorithm/x-of-a-kind-in-a-deck-of-cards)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
