@@ -50,6 +50,8 @@
     * [algorithm/running-sum-of-1d-array](algorithm/running-sum-of-1d-array)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
     * [algorithm/richest-customer-wealth](algorithm/richest-customer-wealth)
+* [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
+    * [algorithm/latest-time-by-replacing-hidden-digits](algorithm/latest-time-by-replacing-hidden-digits)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
     * [algorithm/build-array-from-permutation](algorithm/build-array-from-permutation)
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
