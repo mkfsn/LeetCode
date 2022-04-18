@@ -56,6 +56,8 @@
     * [algorithm/concatenation-of-array](algorithm/concatenation-of-array)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
     * [algorithm/final-value-of-variable-after-performing-operations](algorithm/final-value-of-variable-after-performing-operations)
+* [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
+    * [algorithm/check-whether-two-strings-are-almost-equivalent](algorithm/check-whether-two-strings-are-almost-equivalent)
 * [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
     * [algorithm/maximum-number-of-words-found-in-sentences](algorithm/maximum-number-of-words-found-in-sentences)
 * [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
