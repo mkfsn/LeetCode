@@ -42,6 +42,8 @@
     * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
     * [algorithm/odd-even-linked-list](algorithm/odd-even-linked-list)
+* [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+    * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
