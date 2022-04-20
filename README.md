@@ -46,6 +46,8 @@
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
     * [algorithm/fibonacci-number](algorithm/fibonacci-number)
+* [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+    * [algorithm/find-smallest-letter-greater-than-target](algorithm/find-smallest-letter-greater-than-target)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
     * [algorithm/most-common-word](algorithm/most-common-word)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
