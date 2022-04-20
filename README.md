@@ -56,6 +56,8 @@
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
+* [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+    * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
