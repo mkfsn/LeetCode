@@ -62,6 +62,8 @@
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
     * [algorithm/running-sum-of-1d-array](algorithm/running-sum-of-1d-array)
+* [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+    * [algorithm/kth-missing-positive-number](algorithm/kth-missing-positive-number)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
     * [algorithm/richest-customer-wealth](algorithm/richest-customer-wealth)
 * [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
