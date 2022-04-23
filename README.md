@@ -46,6 +46,8 @@
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
     * [algorithm/fibonacci-number](algorithm/fibonacci-number)
+* [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+    * [algorithm/minimum-absolute-difference-in-bst](algorithm/minimum-absolute-difference-in-bst)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
     * [algorithm/binary-search](algorithm/binary-search)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
