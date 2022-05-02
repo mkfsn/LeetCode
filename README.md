@@ -74,6 +74,8 @@
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
+* [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+    * [algorithm/relative-sort-array](algorithm/relative-sort-array)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
     * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
 * [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
