@@ -82,6 +82,8 @@
     * [algorithm/subtract-the-product-and-sum-of-digits-of-an-integer](algorithm/subtract-the-product-and-sum-of-digits-of-an-integer)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
     * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
+* [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+    * [algorithm/how-many-numbers-are-smaller-than-the-current-number](algorithm/how-many-numbers-are-smaller-than-the-current-number)
 * [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
     * [algorithm/maximum-score-after-splitting-a-string](algorithm/maximum-score-after-splitting-a-string)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
