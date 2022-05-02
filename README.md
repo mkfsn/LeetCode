@@ -66,6 +66,8 @@
     * [algorithm/most-common-word](algorithm/most-common-word)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
     * [algorithm/backspace-string-compare](algorithm/backspace-string-compare)
+* [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+    * [algorithm/sort-array-by-parity](algorithm/sort-array-by-parity) 
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
     * [algorithm/x-of-a-kind-in-a-deck-of-cards](algorithm/x-of-a-kind-in-a-deck-of-cards)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
