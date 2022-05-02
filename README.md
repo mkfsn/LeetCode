@@ -92,6 +92,8 @@
     * [algorithm/number-of-good-pairs](algorithm/number-of-good-pairs)
 * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
     * [algorithm/kth-missing-positive-number](algorithm/kth-missing-positive-number)
+* [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+    * [algorithm/design-parking-system](algorithm/design-parking-system)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
     * [algorithm/richest-customer-wealth](algorithm/richest-customer-wealth)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
