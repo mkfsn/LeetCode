@@ -44,6 +44,8 @@
     * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
     * [algorithm/odd-even-linked-list](algorithm/odd-even-linked-list)
+* [401. Binary Watch](https://leetcode.com/problems/binary-watch/)
+    * [algorithm/binary-watch](algorithm/binary-watch)
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
