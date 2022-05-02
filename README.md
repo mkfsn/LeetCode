@@ -88,6 +88,8 @@
     * [algorithm/kth-missing-positive-number](algorithm/kth-missing-positive-number)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
     * [algorithm/richest-customer-wealth](algorithm/richest-customer-wealth)
+* [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+    * [algorithm/decode-xored-array](algorithm/decode-xored-array)
 * [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
     * [algorithm/latest-time-by-replacing-hidden-digits](algorithm/latest-time-by-replacing-hidden-digits)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
