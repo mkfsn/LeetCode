@@ -106,6 +106,8 @@
     * [algorithm/find-the-highest-altitude](algorithm/find-the-highest-altitude) 
 * [1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
     * [algorithm/latest-time-by-replacing-hidden-digits](algorithm/latest-time-by-replacing-hidden-digits)
+* [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
+    * [algorithm/longer-contiguous-segments-of-ones-than-zeros](algorithm/longer-contiguous-segments-of-ones-than-zeros)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
     * [algorithm/build-array-from-permutation](algorithm/build-array-from-permutation)
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
