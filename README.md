@@ -82,6 +82,8 @@
     * [algorithm/sort-array-by-parity-ii](algorithm/sort-array-by-parity-ii)
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
+* [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
+    * [algorithm/divisor-game](algorithm/divisor-game)
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
