@@ -40,6 +40,8 @@
     * [algorithm/delete-node-in-a-linked-list](algorithm/delete-node-in-a-linked-list)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
     * [algorithm/binary-tree-path](algorithm/binary-tree-path)
+* [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+    * [algorithm/longest-increasing-subsequence](algorithm/longest-increasing-subsequence)
 + [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
     * [algorithm/minimum-height-trees](algorithm/minimum-height-trees)
 + [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
