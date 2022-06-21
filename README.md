@@ -86,6 +86,8 @@
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
     * [algorithm/relative-sort-array](algorithm/relative-sort-array)
+* [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+    * [algorithm/n-th-tribonacci-number](algorithm/n-th-tribonacci-number)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
     * [algorithm/subtract-the-product-and-sum-of-digits-of-an-integer](algorithm/subtract-the-product-and-sum-of-digits-of-an-integer)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
