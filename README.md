@@ -16,6 +16,8 @@
     * [algorithm/longest-common-prefix](algorithm/longest-common-prefix)
 + [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
+* [46. Permutations](https://leetcode.com/problems/permutations/)
+    * [algorithm/permutations](algorithm/permutations)
 + [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
 + [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
