@@ -50,6 +50,8 @@
     * [algorithm/increasing-triplet-subsequence](algorithm/increasing-triplet-subsequence)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
     * [algorithm/is-subsequence](algorithm/is-subsequence)
+* [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/)
+    * [algorithm/random-pick-index](algorithm/random-pick-index)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/)
     * [algorithm/binary-watch](algorithm/binary-watch)
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
