@@ -52,6 +52,8 @@
     * [algorithm/odd-even-linked-list](algorithm/odd-even-linked-list)
 * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
     * [algorithm/increasing-triplet-subsequence](algorithm/increasing-triplet-subsequence)
+* [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+    * [algorithm/kth-smallest-element-in-a-sorted-matrix](algorithm/kth-smallest-element-in-a-sorted-matrix)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
     * [algorithm/is-subsequence](algorithm/is-subsequence)
 * [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/)
