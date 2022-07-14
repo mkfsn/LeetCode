@@ -134,6 +134,8 @@
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
     * [algorithm/running-sum-of-1d-array](algorithm/running-sum-of-1d-array)
+* [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+    * [algorithm/can-make-arithmetic-progression-from-sequence](algorithm/can-make-arithmetic-progression-from-sequence)
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
     * [algorithm/number-of-good-pairs](algorithm/number-of-good-pairs)
 * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
