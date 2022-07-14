@@ -116,6 +116,8 @@
     * [algorithm/relative-sort-array](algorithm/relative-sort-array)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
     * [algorithm/n-th-tribonacci-number](algorithm/n-th-tribonacci-number)
+* [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
+    * [algorithm/find-positive-integer-solution-for-a-given-equation](algorithm/find-positive-integer-solution-for-a-given-equation)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
     * [algorithm/subtract-the-product-and-sum-of-digits-of-an-integer](algorithm/subtract-the-product-and-sum-of-digits-of-an-integer)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
