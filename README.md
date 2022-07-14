@@ -118,6 +118,8 @@
     * [algorithm/n-th-tribonacci-number](algorithm/n-th-tribonacci-number)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
     * [algorithm/find-positive-integer-solution-for-a-given-equation](algorithm/find-positive-integer-solution-for-a-given-equation)
+* [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+    * [algorithm/minimum-time-visiting-all-points](algorithm/minimum-time-visiting-all-points)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
     * [algorithm/subtract-the-product-and-sum-of-digits-of-an-integer](algorithm/subtract-the-product-and-sum-of-digits-of-an-integer)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
