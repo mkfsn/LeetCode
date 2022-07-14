@@ -40,6 +40,8 @@
     * [algorithm/binary-tree-level-order-traversal](algorithm/binary-tree-level-order-traversal)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
     * [algorithm/construct-binary-tree-from-preorder-and-inorder-traversal](algorithm/construct-binary-tree-from-preorder-and-inorder-traversal)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+    * [algorithm/number-of-islands](algorithm/number-of-islands)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     * [algorithm/kth-largest-element-in-an-array](algorithm/kth-largest-element-in-an-array) 
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
