@@ -98,6 +98,8 @@
     * [algorithm/backspace-string-compare](algorithm/backspace-string-compare)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
     * [algorithm/sort-array-by-parity](algorithm/sort-array-by-parity) 
+* [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
+    * [algorithm/sort-an-array](algorithm/sort-an-array)
 * [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
     * [algorithm/x-of-a-kind-in-a-deck-of-cards](algorithm/x-of-a-kind-in-a-deck-of-cards)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
