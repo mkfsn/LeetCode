@@ -34,6 +34,8 @@
     * [algorithm/binary-tree-preorder-traversal](algorithm/binary-tree-preorder-traversal)
 + [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
     * [algorithm/binary-tree-postorder-traversal](algorithm/binary-tree-postorder-traversal)
+* [148. Sort List](https://leetcode.com/problems/sort-list/)
+    * [algorithm/sort-list](algorithm/sort-list)
 + [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
     * [algorithm/binary-tree-level-order-traversal](algorithm/binary-tree-level-order-traversal)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
