@@ -92,6 +92,8 @@
     * [algorithm/find-smallest-letter-greater-than-target](algorithm/find-smallest-letter-greater-than-target)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
     * [algorithm/min-cost-climbing-stairs](algorithm/min-cost-climbing-stairs)
+* [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+    * [algorithm/all-paths-from-source-to-target](algorithm/all-paths-from-source-to-target)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
     * [algorithm/most-common-word](algorithm/most-common-word)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
