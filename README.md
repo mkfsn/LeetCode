@@ -10,6 +10,8 @@
     * [algorithm/add-two-numbers](algorithm/add-two-numbers)
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
     * [algorithm/longest-substring-without-repeating-characters](algorithm/longest-substring-without-repeating-characters)
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+    * [algorithm/longest-palindromic-subsequence](algorithm/longest-palindromic-subsequence) 
 + [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
     * [algorithm/zigzag-conversion](algorithm/zigzag-conversion)
 + [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
