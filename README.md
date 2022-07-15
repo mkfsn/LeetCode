@@ -88,6 +88,8 @@
     * [algorithm/shortest-unsorted-continuous-subarray](algorithm/shortest-unsorted-continuous-subarray)
 * [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
     * [algorithm/dota2-senate](algorithm/dota2-senate)
+* [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+    * [algorithm/max-area-of-island](algorithm/max-area-of-island)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
     * [algorithm/binary-search](algorithm/binary-search)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
