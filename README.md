@@ -112,6 +112,8 @@
     * [algorithm/x-of-a-kind-in-a-deck-of-cards](algorithm/x-of-a-kind-in-a-deck-of-cards)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
     * [algorithm/sort-array-by-parity-ii](algorithm/sort-array-by-parity-ii)
+* [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+    * [algorithm/unique-email-addresses](algorithm/unique-email-addresses)
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
