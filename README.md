@@ -20,6 +20,8 @@
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
 * [46. Permutations](https://leetcode.com/problems/permutations/)
     * [algorithm/permutations](algorithm/permutations)
+* [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+    * [algorithm/powx-n](algorithm/powx-n)
 + [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
 + [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
