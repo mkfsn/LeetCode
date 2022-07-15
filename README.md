@@ -26,6 +26,8 @@
     * [algorithm/permutations](algorithm/permutations)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
     * [algorithm/powx-n](algorithm/powx-n)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+    * [algorithm/maximum-subarray](algorithm/maximum-subarray)
 + [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
 + [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
