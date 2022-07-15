@@ -18,6 +18,8 @@
     * [algorithm/roman-to-integer](algorithm/roman-to-integer)
 + [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
     * [algorithm/longest-common-prefix](algorithm/longest-common-prefix)
+* [15. 3Sum](https://leetcode.com/problems/3sum/)
+    * [algorithm/3sum](algorithm/3sum) 
 + [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
     * [algorithm/merge-two-sorted-lists](algorithm/merge-two-sorted-lists)
 * [46. Permutations](https://leetcode.com/problems/permutations/)
