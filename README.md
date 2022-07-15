@@ -76,6 +76,8 @@
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
     * [algorithm/fibonacci-number](algorithm/fibonacci-number)
+* [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+    * [algorithm/longest-palindromic-subsequence](algorithm/longest-palindromic-subsequence)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
     * [algorithm/minimum-absolute-difference-in-bst](algorithm/minimum-absolute-difference-in-bst)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
