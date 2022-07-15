@@ -94,6 +94,8 @@
     * [algorithm/minimum-absolute-difference-in-bst](algorithm/minimum-absolute-difference-in-bst)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
   * [algorithm/reverse-string-ii](algorithm/reverse-string-ii)
+* [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+    * [algorithm/diameter-of-binary-tree](algorithm/diameter-of-binary-tree)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
     * [algorithm/reverse-words-in-a-string-iii](algorithm/reverse-words-in-a-string-iii)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
