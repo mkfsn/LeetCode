@@ -100,6 +100,8 @@
     * [algorithm/minimum-distance-between-bst-nodes](algorithm/minimum-distance-between-bst-nodes)
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
     * [algorithm/all-paths-from-source-to-target](algorithm/all-paths-from-source-to-target)
+* [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+    * [algorithm/unique-morse-code-words](algorithm/unique-morse-code-words) 
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
     * [algorithm/most-common-word](algorithm/most-common-word)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)

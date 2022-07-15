@@ -1,3 +1,5 @@
+// +build ignore
+
 #include <iostream>
 #include <vector>
 #include <set>
