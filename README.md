@@ -140,6 +140,8 @@
     * [algorithm/unique-email-addresses](algorithm/unique-email-addresses)
 * [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
     * [algorithm/verifying-an-alien-dictionary](algorithm/verifying-an-alien-dictionary)
+* [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+    * [algorithm/k-closest-points-to-origin](algorithm/k-closest-points-to-origin)  
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
