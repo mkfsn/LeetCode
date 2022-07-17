@@ -72,6 +72,8 @@
     * [algorithm/kth-smallest-element-in-a-bst](algorithm/kth-smallest-element-in-a-bst)
 + [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
     * [algorithm/lowest-common-ancestor-of-a-binary-search-tree](algorithm/lowest-common-ancestor-of-a-binary-search-tree)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+    * [algorithm/lowest-common-ancestor-of-a-binary-tree](algorithm/lowest-common-ancestor-of-a-binary-tree)
 + [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
     * [algorithm/delete-node-in-a-linked-list](algorithm/delete-node-in-a-linked-list)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
