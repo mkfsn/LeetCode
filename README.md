@@ -220,6 +220,8 @@
     * [algorithm/add-two-integers](algorithm/add-two-integers)  
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
     * [algorithm/root-equals-sum-of-children](algorithm/root-equals-sum-of-children)
+* [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/)
+    * [algorithm/query-kth-smallest-trimmed-number](algorithm/query-kth-smallest-trimmed-number)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
     * [algorithm/evaluate-boolean-binary-tree](algorithm/evaluate-boolean-binary-tree)
 * [6120. Maximum Number of Pairs in Array]
