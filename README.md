@@ -40,6 +40,8 @@
     * [algorithm/climbing-stairs](algorithm/climbing-stairs)
 + [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
     * [algorithm/binary-tree-inorder-traversal](algorithm/binary-tree-inorder-traversal)
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+    * [algorithm/validate-binary-search-tree](algorithm/validate-binary-search-tree)
 + [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
     * [algorithm/symmetric-tree](algorithm/symmetric-tree)
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
