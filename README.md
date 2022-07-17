@@ -220,6 +220,10 @@
     * [algorithm/root-equals-sum-of-children](algorithm/root-equals-sum-of-children)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
     * [algorithm/evaluate-boolean-binary-tree](algorithm/evaluate-boolean-binary-tree)
+* [6120. Maximum Number of Pairs in Array]
+    * [algorithm/maximum-number-of-pairs-in-array](algorithm/maximum-number-of-pairs-in-array)
+* [6164. Max Sum of a Pair With Equal Sum of Digits]
+    * [algorithm/max-sum-of-a-pair-with-equal-sum-of-digits](algorithm/max-sum-of-a-pair-with-equal-sum-of-digits)
 
 ## Database
 
