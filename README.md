@@ -212,6 +212,8 @@
     * [algorithm/concatenation-of-array](algorithm/concatenation-of-array)
 * [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
     * [algorithm/find-if-path-exists-in-graph](algorithm/find-if-path-exists-in-graph)
+* [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
+    * [algorithm/find-the-middle-index-in-array](algorithm/find-the-middle-index-in-array)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
     * [algorithm/final-value-of-variable-after-performing-operations](algorithm/final-value-of-variable-after-performing-operations)
 * [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
