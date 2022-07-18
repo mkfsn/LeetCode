@@ -154,6 +154,8 @@
     * [algorithm/unique-email-addresses](algorithm/unique-email-addresses)
 * [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
     * [algorithm/verifying-an-alien-dictionary](algorithm/verifying-an-alien-dictionary)
+* [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+    * [algorithm/univalued-binary-tree](algorithm/univalued-binary-tree)
 * [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
     * [algorithm/k-closest-points-to-origin](algorithm/k-closest-points-to-origin)  
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
