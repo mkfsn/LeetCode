@@ -228,6 +228,8 @@
     * [algorithm/add-two-integers](algorithm/add-two-integers)  
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
     * [algorithm/root-equals-sum-of-children](algorithm/root-equals-sum-of-children)
+* [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
+    * [algorithm/find-resultant-array-after-removing-anagrams](algorithm/find-resultant-array-after-removing-anagrams)
 * [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)
     * [algorithm/decode-the-message](algorithm/decode-the-message)
 * [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/)
