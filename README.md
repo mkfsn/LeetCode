@@ -158,6 +158,8 @@
     * [algorithm/k-closest-points-to-origin](algorithm/k-closest-points-to-origin)  
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
     * [algorithm/cousins-in-binary-tree](algorithm/cousins-in-binary-tree) 
+* [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+    * [algorithm/sum-of-root-to-leaf-binary-numbers](algorithm/sum-of-root-to-leaf-binary-numbers)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
     * [algorithm/divisor-game](algorithm/divisor-game)
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
