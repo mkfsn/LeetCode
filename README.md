@@ -106,6 +106,8 @@
     * [algorithm/assign-cookies](algorithm/assign-cookies)
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
     * [algorithm/next-greater-element-i](algorithm/next-greater-element-i)
+* [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+    * [algorithm/relative-ranks](algorithm/relative-ranks)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
     * [algorithm/fibonacci-number](algorithm/fibonacci-number)
 * [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
