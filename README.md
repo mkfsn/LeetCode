@@ -192,6 +192,8 @@
     * [algorithm/how-many-numbers-are-smaller-than-the-current-number](algorithm/how-many-numbers-are-smaller-than-the-current-number)
 * [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
     * [algorithm/maximum-score-after-splitting-a-string](algorithm/maximum-score-after-splitting-a-string)
+* [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+    * [algorithm/maximum-product-of-two-elements-in-an-array](algorithm/maximum-product-of-two-elements-in-an-array)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
