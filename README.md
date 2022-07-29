@@ -192,6 +192,8 @@
     * [algorithm/subtract-the-product-and-sum-of-digits-of-an-integer](algorithm/subtract-the-product-and-sum-of-digits-of-an-integer)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
     * [algorithm/decrypt-string-from-alphabet-to-integer-mapping](algorithm/decrypt-string-from-alphabet-to-integer-mapping)
+* [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+    * [algorithm/the-k-weakest-rows-in-a-matrix](algorithm/the-k-weakest-rows-in-a-matrix)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
     * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
 * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
