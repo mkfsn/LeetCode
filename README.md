@@ -76,6 +76,8 @@
     * [algorithm/lowest-common-ancestor-of-a-binary-tree](algorithm/lowest-common-ancestor-of-a-binary-tree)
 + [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
     * [algorithm/delete-node-in-a-linked-list](algorithm/delete-node-in-a-linked-list)
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+    * [algorithm/valid-anagram](algorithm/valid-anagram)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
     * [algorithm/binary-tree-path](algorithm/binary-tree-path)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
