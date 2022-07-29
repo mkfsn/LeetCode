@@ -148,6 +148,8 @@
     * [algorithm/backspace-string-compare](algorithm/backspace-string-compare)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
     * [algorithm/all-nodes-distance-k-in-binary-tree](algorithm/all-nodes-distance-k-in-binary-tree)
+* [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+    * [algorithm/find-and-replace-pattern](algorithm/find-and-replace-pattern)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
     * [algorithm/sort-array-by-parity](algorithm/sort-array-by-parity) 
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
