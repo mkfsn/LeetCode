@@ -256,6 +256,8 @@
     * [algorithm/query-kth-smallest-trimmed-number](algorithm/query-kth-smallest-trimmed-number)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
     * [algorithm/evaluate-boolean-binary-tree](algorithm/evaluate-boolean-binary-tree)
+* [2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)
+    * [algorithm/minimum-amount-of-time-to-fill-cups](algorithm/minimum-amount-of-time-to-fill-cups)
 * [6120. Maximum Number of Pairs in Array]
     * [algorithm/maximum-number-of-pairs-in-array](algorithm/maximum-number-of-pairs-in-array)
 * [6164. Max Sum of a Pair With Equal Sum of Digits]
