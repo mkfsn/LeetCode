@@ -176,6 +176,8 @@
     * [algorithm/divisor-game](algorithm/divisor-game)
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
+* [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+    * [algorithm/last-stone-weight](algorithm/last-stone-weight)
 * [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
     * [algorithm/relative-sort-array](algorithm/relative-sort-array)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
