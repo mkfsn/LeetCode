@@ -132,6 +132,8 @@
     * [algorithm/max-area-of-island](algorithm/max-area-of-island)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
     * [algorithm/binary-search](algorithm/binary-search)
+* [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+    * [algorithm/my-calendar-i](algorithm/my-calendar-i)
 * [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
     * [algorithm/flood-fill](algorithm/flood-fill)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
