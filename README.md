@@ -204,6 +204,8 @@
     * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
 * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
     * [algorithm/how-many-numbers-are-smaller-than-the-current-number](algorithm/how-many-numbers-are-smaller-than-the-current-number)
+* [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+    * [algorithm/cinema-seat-allocation](algorithm/cinema-seat-allocation)
 * [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
     * [algorithm/maximum-score-after-splitting-a-string](algorithm/maximum-score-after-splitting-a-string)
 * [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
