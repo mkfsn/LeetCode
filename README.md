@@ -134,6 +134,8 @@
     * [algorithm/max-area-of-island](algorithm/max-area-of-island)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/)
     * [algorithm/binary-search](algorithm/binary-search)
+* [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+    * [algorithm/find-pivot-index](algorithm/find-pivot-index)
 * [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
     * [algorithm/my-calendar-i](algorithm/my-calendar-i)
 * [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
