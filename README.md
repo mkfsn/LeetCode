@@ -180,6 +180,8 @@
     * [algorithm/sum-of-root-to-leaf-binary-numbers](algorithm/sum-of-root-to-leaf-binary-numbers)
 * [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
     * [algorithm/divisor-game](algorithm/divisor-game)
+* [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+    * [algorithm/uncrossed-lines](algorithm/uncrossed-lines)
 * [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
     * [algorithm/valid-boomerang](algorithm/valid-boomerang)
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
