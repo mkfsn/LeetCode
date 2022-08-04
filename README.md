@@ -194,6 +194,8 @@
     * [algorithm/n-th-tribonacci-number](algorithm/n-th-tribonacci-number)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
     * [algorithm/longest-common-subsequence](algorithm/longest-common-subsequence)
+* [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)
+    * [algorithm/invalid-transactions](algorithm/invalid-transactions)
 * [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
     * [algorithm/find-positive-integer-solution-for-a-given-equation](algorithm/find-positive-integer-solution-for-a-given-equation)
 * [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
