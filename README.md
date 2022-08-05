@@ -66,6 +66,8 @@
     * [algorithm/binary-tree-right-side-view](algorithm/binary-tree-right-side-view) 
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     * [algorithm/number-of-islands](algorithm/number-of-islands)
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+    * [algorithm/isomorphic-strings](algorithm/isomorphic-strings)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     * [algorithm/kth-largest-element-in-an-array](algorithm/kth-largest-element-in-an-array) 
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
