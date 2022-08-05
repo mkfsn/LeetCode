@@ -96,6 +96,8 @@
     * [algorithm/power-of-four](algorithm/power-of-four)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
     * [algorithm/intersection-of-two-arrays](algorithm/intersection-of-two-arrays)
+* [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+    * [algorithm/combination-sum-iv](algorithm/combination-sum-iv)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
     * [algorithm/kth-smallest-element-in-a-sorted-matrix](algorithm/kth-smallest-element-in-a-sorted-matrix)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
