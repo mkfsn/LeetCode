@@ -68,6 +68,8 @@
     * [algorithm/number-of-islands](algorithm/number-of-islands)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
     * [algorithm/isomorphic-strings](algorithm/isomorphic-strings)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+    * [algorithm/reverse-linked-list](algorithm/reverse-linked-list)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     * [algorithm/kth-largest-element-in-an-array](algorithm/kth-largest-element-in-an-array) 
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
