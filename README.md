@@ -140,6 +140,8 @@
     * [algorithm/reverse-words-in-a-string-iii](algorithm/reverse-words-in-a-string-iii)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
     * [algorithm/shortest-unsorted-continuous-subarray](algorithm/shortest-unsorted-continuous-subarray)
+* [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+    * [algorithm/n-ary-tree-preorder-traversal](algorithm/n-ary-tree-preorder-traversal)
 * [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
     * [algorithm/dota2-senate](algorithm/dota2-senate)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
