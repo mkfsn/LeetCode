@@ -36,6 +36,8 @@
     * [algorithm/merge-intervals](algorithm/merge-intervals)
 + [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
     * [algorithm/length-of-last-word](algorithm/length-of-last-word)
+* [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+    * [algorithm/unique-paths](algorithm/unique-paths)
 + [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
     * [algorithm/climbing-stairs](algorithm/climbing-stairs)
 + [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
