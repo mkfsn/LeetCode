@@ -166,6 +166,8 @@
     * [algorithm/mirror-reflection](algorithm/mirror-reflection)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
     * [algorithm/all-nodes-distance-k-in-binary-tree](algorithm/all-nodes-distance-k-in-binary-tree)
+* [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+    * [algorithm/middle-of-the-linked-list](algorithm/middle-of-the-linked-list) 
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
     * [algorithm/find-and-replace-pattern](algorithm/find-and-replace-pattern)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
