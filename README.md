@@ -116,6 +116,8 @@
     * [algorithm/kth-smallest-element-in-a-sorted-matrix](algorithm/kth-smallest-element-in-a-sorted-matrix)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
     * [algorithm/is-subsequence](algorithm/is-subsequence)
+* [394. Decode String](https://leetcode.com/problems/decode-string/)
+    * [algorithm/decode-string](algorithm/decode-string)
 * [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/)
     * [algorithm/random-pick-index](algorithm/random-pick-index)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/)

@@ -1,3 +1,5 @@
+// +build ignore
+
 struct myTreeNode {
     string str;
     vector<pair<int, myTreeNode*>> children;
