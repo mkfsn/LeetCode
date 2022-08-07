@@ -122,6 +122,8 @@
     * [algorithm/binary-watch](algorithm/binary-watch)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
     * [algorithm/longest-palindrome](algorithm/longest-palindrome)
+* [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+    * [algorithm/longest-repeating-character-replacement](algorithm/longest-repeating-character-replacement)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
     * [algorithm/number-of-segments-in-a-string](algorithm/number-of-segments-in-a-string)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
