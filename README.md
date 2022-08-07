@@ -92,6 +92,8 @@
     * [algorithm/valid-anagram](algorithm/valid-anagram)
 + [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
     * [algorithm/binary-tree-path](algorithm/binary-tree-path)
+* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+    * [algorithm/first-bad-version](algorithm/first-bad-version)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
     * [algorithm/move-zeroes](algorithm/move-zeroes)
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
