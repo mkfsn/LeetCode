@@ -1,4 +1,4 @@
-package longest_palindrome
+package longest_palindromic_substring
 
 func longestPalindrome(s string) string {
 	res := longestPalindromeSlice([]byte(s))
