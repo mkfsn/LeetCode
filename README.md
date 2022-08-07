@@ -46,6 +46,8 @@
     * [algorithm/symmetric-tree](algorithm/symmetric-tree)
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
     * [algorithm/binary-tree-zigzag-level-order-traversal](algorithm/binary-tree-zigzag-level-order-traversal)
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    * [algorithm/best-time-to-buy-and-sell-stock](algorithm/best-time-to-buy-and-sell-stock)
 * [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
     * [algorithm/clone-graph](algorithm/clone-graph)
 * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
