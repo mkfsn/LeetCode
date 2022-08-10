@@ -110,6 +110,8 @@
     * [algorithm/increasing-triplet-subsequence](algorithm/increasing-triplet-subsequence)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/)
     * [algorithm/power-of-four](algorithm/power-of-four)
+* [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+    * [algorithm/top-k-frequent-elements](algorithm/top-k-frequent-elements)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
     * [algorithm/intersection-of-two-arrays](algorithm/intersection-of-two-arrays)
 * [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
