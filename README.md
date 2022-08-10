@@ -184,6 +184,8 @@
     * [algorithm/subdomain-visit-count](algorithm/subdomain-visit-count)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
     * [algorithm/most-common-word](algorithm/most-common-word)
+* [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+    * [algorithm/binary-trees-with-factors](algorithm/binary-trees-with-factors)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
     * [algorithm/backspace-string-compare](algorithm/backspace-string-compare)
 * [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
