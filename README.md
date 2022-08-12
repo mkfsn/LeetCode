@@ -288,6 +288,8 @@
     * [algorithm/sum-of-all-subset-xor-totals](algorithm/sum-of-all-subset-xor-totals)
 * [1869. Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
     * [algorithm/longer-contiguous-segments-of-ones-than-zeros](algorithm/longer-contiguous-segments-of-ones-than-zeros)
+* [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+    * [algorithm/maximum-product-difference-between-two-pairs](algorithm/maximum-product-difference-between-two-pairs)
 * [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
     * [algorithm/build-array-from-permutation](algorithm/build-array-from-permutation)
 * [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
