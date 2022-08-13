@@ -252,6 +252,8 @@
     * [algorithm/the-k-weakest-rows-in-a-matrix](algorithm/the-k-weakest-rows-in-a-matrix)
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
     * [algorithm/check-if-n-and-its-double-exist](algorithm/check-if-n-and-its-double-exist)
+* [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+    * [algorithm/count-negative-numbers-in-a-sorted-matrix](algorithm/count-negative-numbers-in-a-sorted-matrix)
 * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
     * [algorithm/how-many-numbers-are-smaller-than-the-current-number](algorithm/how-many-numbers-are-smaller-than-the-current-number)
 * [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
