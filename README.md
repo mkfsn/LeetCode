@@ -272,6 +272,8 @@
     * [algorithm/kth-missing-positive-number](algorithm/kth-missing-positive-number)
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
     * [algorithm/design-parking-system](algorithm/design-parking-system)
+* [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+    * [algorithm/special-array-with-x-elements-greater-than-or-equal-x](algorithm/special-array-with-x-elements-greater-than-or-equal-x)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
     * [algorithm/count-sorted-vowel-strings](algorithm/count-sorted-vowel-strings)
 * [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
