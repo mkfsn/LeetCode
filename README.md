@@ -284,6 +284,8 @@
     * [algorithm/get-maximum-in-generated-array](algorithm/get-maximum-in-generated-array)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
     * [algorithm/richest-customer-wealth](algorithm/richest-customer-wealth)
+* [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+    * [algorithm/goal-parser-interpretation](algorithm/goal-parser-interpretation) 
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
     * [algorithm/decode-xored-array](algorithm/decode-xored-array)
 * [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
