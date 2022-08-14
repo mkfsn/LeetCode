@@ -264,6 +264,8 @@
     * [algorithm/maximum-product-of-two-elements-in-an-array](algorithm/maximum-product-of-two-elements-in-an-array)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [algorithm/shuffle-the-array](algorithm/shuffle-the-array)
+* [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+    * [algorithm/final-prices-with-a-special-discount-in-a-shop](algorithm/final-prices-with-a-special-discount-in-a-shop)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
     * [algorithm/running-sum-of-1d-array](algorithm/running-sum-of-1d-array)
 * [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
